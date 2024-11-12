@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "username": "",
+  "password": "",
+  "port": "3000",
+  "clientId": "1305080701309292554",
+  "guildId": "1304834425086808065",
+  "globalDeploy": false,
+  "status": "Made in Siber",
+  "website": "",
+  "banner": "https://cdn.discordapp.com/attachments/1305172639509123215/1305185477707567104/Ekran_goruntusu_2024-10-07_181641.png?ex=67321c33&is=6730cab3&hm=db248e567058569d4fb5caaab407f5257a2a5a36f2c07be72801043da1592054&",
+  "footer": "Made in Wacked",
+  "genChannel": "1304836466228199464",
+  "premiumChannel": "1305082015753699338",
+  "genCooldown": "3600",
+  "premiumCooldown": "3600",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
